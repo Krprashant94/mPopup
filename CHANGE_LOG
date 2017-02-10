@@ -1,0 +1,38 @@
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Version: 1.0.0.2 (4-Apr-2014, 2:55PM)
+Features Added
+	2. fadeIn(200) and fadeOut(200) are use for appearing and exit on popup.
+Features Upgread
+	1. Default footer style changed.
+Features Removed
+	Not remove any features.
+Bug Fixed
+	1. If heading is not set remove head "<div>".
+	2. Fix the position of the close button
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Version: 1.0.0.1 (3-Apr-2014, 9:35PM)
+Relished the first mPopup API using jQuery JavaScript and CSS, CSS3
+Features
+	1. Popup using AJAX request.
+	2. Popup opens another web page "type = file" only valid format.
+	3. GET and POST method support.
+	4. Data sending to another url support.
+Changeable Property
+	A.	AJAX
+		1.	method 		: GET/POST
+		2.	send		: Data send
+		3.	url			: path of the file.
+	B.	Text Display
+		1.	heading		: Text on heading
+		2.	footer		: Text on footer
+	C.	Style
+		1.	trogress	: Progress bar color (is not set Progress false )
+		2.	type		: file (only)
+		3.	Color_foot	: Footer text color
+		4.	color_back	: Footer background color
+		5.	top			: Possition to the top
+		6.	width		: Width of the popup
+		7.	height		:  Height of the popup
+		8.	padding		: Padding on popup
