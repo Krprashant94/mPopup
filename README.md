@@ -32,13 +32,13 @@ Note : - 	1. To trigger the mPopup it must be include jQuery file
 Use the following script to trigger the mPopup :-
 			    $('*').mPopup({"options1", "options2"...});
 Eg :- 
-			    $('*').mPopup({
+			$('*').mPopup({
 				heading	: "My heading",
-				    url		: "test.html",
-				    footer	:'My footer',
-				    progress: '#149bdf',
-				    type	: ""
-			    });
+				url		: "test.html",
+				footer	:'My footer',
+				progress: '#149bdf',
+				type	: ""
+			});
 			
 --------------------------------------------------------------------
 						OPTIONS
