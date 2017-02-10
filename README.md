@@ -4,8 +4,8 @@
 			             	 © version: 1.0.0.2
 				            	  3-Apr-2014
 					                2:55PM
-Website  : http://pkrcciit.blogspot.in
-Mail     : kr.prashant94@gmail.com
+Website : http://pkrcciit.blogspot.in
+Mail : kr.prashant94@gmail.com
 Facebook : facebook.com/prashant94
 --------------------------------------------------------------------
 					             INTRODUCTION
