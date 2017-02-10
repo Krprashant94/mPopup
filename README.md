@@ -4,7 +4,6 @@
 			             	 © version: 1.0.0.2
 				            	  3-Apr-2014
 					                2:55PM
-Website : http://pkrcciit.blogspot.in
 Mail : kr.prashant94@gmail.com
 Facebook : facebook.com/prashant94
 --------------------------------------------------------------------
@@ -13,7 +12,7 @@ mPopup is a API plug-in that offers a nice and elegant way to alert,
 zooming, prompt and other popup functionality for images, html and 
 other web content on your webpages.
 
-More information and examples	: 
+More information and examples : http://pkrcciit.blogspot.in
 
 				
 --------------------------------------------------------------------
