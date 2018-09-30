@@ -5,7 +5,7 @@
 [Mail Me](kr.prashant94@gmail.com)
 [Facebook](https://facebook.com/prashant94)
 --------------------------------------------------------------------
-					             INTRODUCTION
+# INTRODUCTION
 mPopup is a API plug-in that offers a nice and elegant way to alert, 
 zooming, prompt and other popup functionality for images, html and 
 other web content on your webpages.
@@ -42,14 +42,14 @@ Eg :-
 ```		
 --------------------------------------------------------------------
 						OPTIONS
-# A.	AJAX
+### A.	AJAX
 		1.	method 		: GET/POST
 		2.	send		: Data send
 		3.	url			: path of the file.
-# B.	Text Display
+### B.	Text Display
 		1.	heading		: Text on heading
 		2.	footer		: Text on footer
-# C.	Style
+### C.	Style
 		1.	progress	: Progress bar color (is not set Progress false )
 		2.	type		: file (only)
 		3.	Color_foot	: Footer text color
