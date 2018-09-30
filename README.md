@@ -16,12 +16,13 @@ More information and examples : http://pkrcciit.blogspot.in
 --------------------------------------------------------------------
 
 To add the mPopup you just include this code in your page <head> tag : -
-
-	<HEAD>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-		<link href="/mPopup/mPopup.css" rel="stylesheet" type="text/css" />
-		<script type="text/javascript" src="/mPopup/mPopup.js"></script>
-	</HEAD>
+```
+<HEAD>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<link href="/mPopup/mPopup.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/mPopup/mPopup.js"></script>
+</HEAD>
+```
 
 Note : - 	1. To trigger the mPopup it must be include jQuery file
 
@@ -30,6 +31,7 @@ Note : - 	1. To trigger the mPopup it must be include jQuery file
 Use the following script to trigger the mPopup :-
 			    $('*').mPopup({"options1", "options2"...});
 Eg :- 
+```
 			$('*').mPopup({
 				heading	: "My heading",
 				url		: "test.html",
@@ -37,17 +39,17 @@ Eg :-
 				progress: '#149bdf',
 				type	: ""
 			});
-			
+```		
 --------------------------------------------------------------------
 						OPTIONS
-A.	AJAX
+# A.	AJAX
 		1.	method 		: GET/POST
 		2.	send		: Data send
 		3.	url			: path of the file.
-B.	Text Display
+# B.	Text Display
 		1.	heading		: Text on heading
 		2.	footer		: Text on footer
-C.	Style
+# C.	Style
 		1.	progress	: Progress bar color (is not set Progress false )
 		2.	type		: file (only)
 		3.	Color_foot	: Footer text color
