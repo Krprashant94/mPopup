@@ -2,8 +2,8 @@
 © version: 1.0.0.2
 3-Apr-2014, 2:55PM
 
-[Mail Me]kr.prashant94@gmail.com
-[Facebook]https://facebook.com/prashant94
+[Mail Me](kr.prashant94@gmail.com)
+[Facebook](https://facebook.com/prashant94)
 --------------------------------------------------------------------
 					             INTRODUCTION
 mPopup is a API plug-in that offers a nice and elegant way to alert, 
